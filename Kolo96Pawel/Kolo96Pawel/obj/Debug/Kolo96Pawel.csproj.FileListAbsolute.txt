@@ -1,0 +1,6 @@
+C:\Users\local\Desktop\Kolo96Pawel\Kolo96Pawel\bin\Debug\Kolo96Pawel.exe.config
+C:\Users\local\Desktop\Kolo96Pawel\Kolo96Pawel\bin\Debug\Kolo96Pawel.exe
+C:\Users\local\Desktop\Kolo96Pawel\Kolo96Pawel\bin\Debug\Kolo96Pawel.pdb
+C:\Users\local\Desktop\Kolo96Pawel\Kolo96Pawel\obj\Debug\Kolo96Pawel.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\Kolo96Pawel\Kolo96Pawel\obj\Debug\Kolo96Pawel.exe
+C:\Users\local\Desktop\Kolo96Pawel\Kolo96Pawel\obj\Debug\Kolo96Pawel.pdb
